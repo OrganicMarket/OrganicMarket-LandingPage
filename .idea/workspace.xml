@@ -32,7 +32,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cc074bb-909e-429e-97b5-1250ad8ded3e" name="Default Changelist" comment="Cambios en home">
+    <list default="true" id="0cc074bb-909e-429e-97b5-1250ad8ded3e" name="Default Changelist" comment="Cambio, agregacion video about the product en &quot;About us&quot;">
       <change beforePath="$PROJECT_DIR$/public/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663341959181</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Cambio, agregacion video about the product en &quot;About us&quot;">
+      <created>1663342054116</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663342054116</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,7 +243,8 @@
     <MESSAGE value="Cambio de imagenes" />
     <MESSAGE value="Cambio de about-the-team agregacion de fotos y nombres de miembros del equipo" />
     <MESSAGE value="Cambios en home" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cambios en home" />
+    <MESSAGE value="Cambio, agregacion video about the product en &quot;About us&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambio, agregacion video about the product en &quot;About us&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1663232956426">
@@ -247,10 +255,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1663233094743" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1663341961384">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1663342057292">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1663341961384" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1663342057292" />
     <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1663232675863">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
